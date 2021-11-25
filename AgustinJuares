@@ -1,0 +1,82 @@
+# Electromagnetismo
+
+Alumno: JuaresAgustín
+Curso: 5 2 Avionica 
+Materia: Telecomunicaciones I
+Grupo : Juares Agustin,Cabrera Martin
+
+## Resoluciones
+1
+
+<img src="https://render.githubusercontent.com/render/math?math=B = 5nwb">
+
+2
+
+<img src="https://render.githubusercontent.com/render/math?math=B = 13,33nwb">
+
+A causa de que b es positivo se podria decir +x 
+
+3
+
+<img src="https://render.githubusercontent.com/render/math?math=\lambda\ = 589,39 m m">
+<img src="https://render.githubusercontent.com/render/math?math=v  = 124,48 Mm/s">
+<img src="https://render.githubusercontent.com/render/math?math=\lambda\ = 244,55 fm">
+
+
+4
+
+<img src="https://render.githubusercontent.com/render/math?math=\lambda\ = 3,3m">
+<img src="https://render.githubusercontent.com/render/math?math=v  = 3 Mm/s">
+<img src="https://render.githubusercontent.com/render/math?math=\lambda\ = 33,3m m">
+
+Al estar en vacio la velocidad de propagacion seria la velocidad de la luz
+
+### Problema 1
+<img src="https://render.githubusercontent.com/render/math?math=E = c * B">  
+<img src="https://render.githubusercontent.com/render/math?math=B = E / c">
+<img src="https://render.githubusercontent.com/render/math?math=(B = 1,5 Mv / m) / 3*10^{8} m/s">
+<img src="https://render.githubusercontent.com/render/math?math=B = 5.10^{-9}">
+<img src="https://render.githubusercontent.com/render/math?math=B = 5 nWb">
+
+### problema 2
+
+<img src="https://render.githubusercontent.com/render/math?math=E = c * B">
+<img src="https://render.githubusercontent.com/render/math?math=B = E / c">
+<img src="https://render.githubusercontent.com/render/math?math=(B = 4V / m) / 3*10^{8} m/s">
+<img src="https://render.githubusercontent.com/render/math?math=B = 13,33.10^{-9}">
+<img src="https://render.githubusercontent.com/render/math?math=B = 13,33 nWb">
+
+
+## problema 3
+
+<img src="https://render.githubusercontent.com/render/math?math=\lambda\ = \frac{c}{f}">
+<img src="https://render.githubusercontent.com/render/math?math=\lambda\ = \frac{3*10^{8}m/s}{5,09*10^{14}Hz}">
+<img src="https://render.githubusercontent.com/render/math?math=\lambda\ = 589,39*10^{-9}m">
+<img src="https://render.githubusercontent.com/render/math?math=\lambda\ = 589,39 m m">
+<img src="https://render.githubusercontent.com/render/math?math=v = \frac{c}{\sqrt[2]{e*μ}}">
+<img src="https://render.githubusercontent.com/render/math?math=v = \frac{3*10^{8}}{\sqrt[2]{5,84*1}}">
+<img src="https://render.githubusercontent.com/render/math?math=v = \frac{3*10^{8}}{\sqrt[2]{2,41}}">
+<img src="https://render.githubusercontent.com/render/math?math=v  = 124,48*10^{6}">
+<img src="https://render.githubusercontent.com/render/math?math=v  = 124,48 Mm/s">
+<img src="https://render.githubusercontent.com/render/math?math=\lambda\ = \frac{v}{f}">
+<img src="https://render.githubusercontent.com/render/math?math=\lambda\ = \frac{124,48*10^{6}}{5,09*10^{14}Hz}">
+<img src="https://render.githubusercontent.com/render/math?math=\lambda\ = 244,55*10^{-15}m">
+<img src="https://render.githubusercontent.com/render/math?math=\lambda\ = 244,55 fm">
+
+
+## problema 4
+
+<img src="https://render.githubusercontent.com/render/math?math=\lambda\ = \frac{c}{f}">
+<img src="https://render.githubusercontent.com/render/math?math=\lambda\ = \frac{3*10^{8}m/s}{90*10^{6}Hz}">
+<img src="https://render.githubusercontent.com/render/math?math=\lambda\ = 3,3m">
+
+<img src="https://render.githubusercontent.com/render/math?math=v = \frac{c}{\sqrt[2]{e*μ}}">
+<img src="https://render.githubusercontent.com/render/math?math=v = \frac{3*10^{8}}{\sqrt[2]{10*1000}}">
+<img src="https://render.githubusercontent.com/render/math?math=v  = 3*10^{6} Mm/s">
+<img src="https://render.githubusercontent.com/render/math?math=v  = 3 Mm/s">
+
+
+<img src="https://render.githubusercontent.com/render/math?math=\lambda\ = \frac{v}{f}">
+<img src="https://render.githubusercontent.com/render/math?math=\lambda\ = \frac{3*10^{6}}{90*10^{6}Hz}">
+<img src="https://render.githubusercontent.com/render/math?math=\lambda\ = 33,3*10^{-3}m">
+<img src="https://render.githubusercontent.com/render/math?math=\lambda\ = 33,3m m">
